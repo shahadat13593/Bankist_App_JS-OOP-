@@ -28,8 +28,7 @@ A sleek, modern banking application that allows users to manage their accounts w
 ## 💡 How It Works
 
 1. Clone the repository:
-   ```bash
- https://github.com/shahadat13593/Bankist_App_JS-OOP-.git
+   ```bash https://github.com/shahadat13593/Bankist_App_JS-OOP-.git
    ```
 
 2. Open `index.html` in any modern web browser to launch the application.
